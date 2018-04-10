@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.tjandrawidjaja.com/sitemap.xml

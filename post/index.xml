@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tundra</title>
+    <link>https://www.tjandrawidjaja.com/post/</link>
+    <description>Recent content in Posts on Tundra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Miles Tjandrawidjaja</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.tjandrawidjaja.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start!</title>
+      <link>https://www.tjandrawidjaja.com/post/start/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tjandrawidjaja.com/post/start/</guid>
+      <description>It&amp;rsquo;s maddening how often we underestimate the difficulty of starting a new or challenging task. A seemingly trivial step, because the only way to fail at trying is by not doing so. Yet consistently, many of us never make that first move. This is an important problem, usually treated as nothing more than scuff to brush off. The solution itself is well known, but knowing the anwser does not help much.</description>
+    </item>
+    
+  </channel>
+</rss>

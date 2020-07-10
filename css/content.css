@@ -1,0 +1,7 @@
+/* Style override for https://github.com/olOwOlo/hugo-theme-even/commit/90a17f8 */
+.post .post-content hr {
+  margin: 1rem 0;
+  position: relative;
+  border-top: 1px solid #c05b4d;
+  border-bottom: none;
+}

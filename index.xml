@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tundra</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Miles Tjandrawidjaja</copyright>
-    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.tjandrawidjaja.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@ Why: Help
 When: Now, call me
 Where: Kitchener, Ontario, Canada
 What: Software Developer, Psuedo Philosopher
-Everything found here are of my own opinion. Thoughts and beliefs I&amp;rsquo;ve held during some point in time. What you read will not always be representative of my views a year, month, day or even minutes after the post date. I will not necessarily strive for correctness. Finding absolute truth is much too hard, perhaps even non-existent.</description>
+ Everything found here are of my own opinion. Thoughts and beliefs I&amp;rsquo;ve held during some point in time. What you read will not always be representative of my views a year, month, day or even minutes after the post date. I will not necessarily strive for correctness. Finding absolute truth is much too hard, perhaps even non-existent.</description>
     </item>
     
     <item>

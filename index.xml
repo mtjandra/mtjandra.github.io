@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Miles Tjandrawidjaja</copyright>
-    <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 19:10:27 -0500</lastBuildDate>
     
 	<atom:link href="https://www.tjandrawidjaja.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,12 +27,30 @@ What: Software Engineering Manager &amp;amp; Thinker
     </item>
     
     <item>
+      <title>2020</title>
+      <link>https://www.tjandrawidjaja.com/post/2020/</link>
+      <pubDate>Mon, 04 Jan 2021 19:10:27 -0500</pubDate>
+      
+      <guid>https://www.tjandrawidjaja.com/post/2020/</guid>
+      <description>&lt;p&gt;Despite what most are saying about the year, twenty-twenty has been the best year of my life.
+Looking back, I&amp;rsquo;m proud of what I&amp;rsquo;ve done and who I&amp;rsquo;m choosing to become.
+It&amp;rsquo;s as if I&amp;rsquo;m finally at the age that I should be, as if I&amp;rsquo;ve just woken up from a deep slumber.
+Fair warning, this post is very much me, me, me, and lopsided on the positive end of the spectrum.
+I don&amp;rsquo;t intend to come off as egotistic or self centered, but this is my story, and if you&amp;rsquo;re interested, have a read.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Start!</title>
       <link>https://www.tjandrawidjaja.com/post/start/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.tjandrawidjaja.com/post/start/</guid>
-      <description>It&amp;rsquo;s maddening how often we underestimate the difficulty of starting a new or challenging task. A seemingly trivial step, because the only way to fail at trying is by not doing so. Yet consistently, many of us never make that first move. This is an important problem, usually treated as nothing more than scuff to brush off. The solution itself is well known, but knowing the anwser does not help much.</description>
+      <description>&lt;p&gt;It&amp;rsquo;s maddening how often we underestimate the difficulty of starting a new or challenging task.
+A seemingly trivial step, because the only way to fail at trying is by not doing so.
+Yet consistently, many of us never make that first move.
+This is an important problem, usually treated as nothing more than scuff to brush off.
+The solution itself is well known, but knowing the anwser does not help much.
+You&amp;rsquo;ve probably heard it many times before.&lt;/p&gt;</description>
     </item>
     
   </channel>
